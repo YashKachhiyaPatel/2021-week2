@@ -1,0 +1,14 @@
+{
+  "name": "com229-2021",
+  "version": "0.1",
+  "description": "project",
+  "main": "index.js",
+  "author": "yash",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
